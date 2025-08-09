@@ -32,7 +32,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=slxxpwalker&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=slxxpwalker&theme=radical&hide_border=true"/>
 </p>
 
 ---
@@ -49,5 +48,6 @@
 <p align="center">
   <em>“Code is poetry, and I’m writing in the dark.”</em>
 </p>
+
 
 
